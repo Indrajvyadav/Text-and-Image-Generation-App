@@ -11,7 +11,7 @@ class TextGenPage extends StatefulWidget {
 }
 
 Future<String> geminiAi() async {
-  Gemini.init(apiKey: 'AIzaSyCBmxBxxwFm_QbiIUBH9ESFItIFX8Ch2xw');
+  Gemini.init(apiKey: '');
 
   final gemini = Gemini.instance;
 
