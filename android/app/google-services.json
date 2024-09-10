@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292180983689",
+    "project_id": "aigen-3c81e",
+    "storage_bucket": "aigen-3c81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292180983689:android:cafaf6bcfe62cd04d9ab58",
+        "android_client_info": {
+          "package_name": "com.example.ai_generative_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwC-sGOXR9ZihufMF5XzbYN-IS5yWhbUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
