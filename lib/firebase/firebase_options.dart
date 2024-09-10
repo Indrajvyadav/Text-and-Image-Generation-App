@@ -36,48 +36,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDr8L6G-Evs1eo0aGIGjGem4nNEpApODDs',
-    appId: '1:292180983689:web:a01ce313352dfed8d9ab58',
-    messagingSenderId: '292180983689',
-    projectId: 'aigen-3c81e',
-    authDomain: 'aigen-3c81e.firebaseapp.com',
-    storageBucket: 'aigen-3c81e.appspot.com',
-    measurementId: 'G-XN206WMV89',
+    
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAwC-sGOXR9ZihufMF5XzbYN-IS5yWhbUw',
-    appId: '1:292180983689:android:cafaf6bcfe62cd04d9ab58',
-    messagingSenderId: '292180983689',
-    projectId: 'aigen-3c81e',
-    storageBucket: 'aigen-3c81e.appspot.com',
+   
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDFUtoRp1Rj7gKZHrdy5DOkjHNHtObMuHU',
-    appId: '1:292180983689:ios:c0492c0a8230b58bd9ab58',
-    messagingSenderId: '292180983689',
-    projectId: 'aigen-3c81e',
-    storageBucket: 'aigen-3c81e.appspot.com',
-    iosBundleId: 'com.example.aiGenerativeApp',
+  
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDFUtoRp1Rj7gKZHrdy5DOkjHNHtObMuHU',
-    appId: '1:292180983689:ios:c0492c0a8230b58bd9ab58',
-    messagingSenderId: '292180983689',
-    projectId: 'aigen-3c81e',
-    storageBucket: 'aigen-3c81e.appspot.com',
-    iosBundleId: 'com.example.aiGenerativeApp',
+  
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDr8L6G-Evs1eo0aGIGjGem4nNEpApODDs',
-    appId: '1:292180983689:web:f2d06b114c023c04d9ab58',
-    messagingSenderId: '292180983689',
-    projectId: 'aigen-3c81e',
-    authDomain: 'aigen-3c81e.firebaseapp.com',
-    storageBucket: 'aigen-3c81e.appspot.com',
-    measurementId: 'G-29B8KECYV3',
+   
   );
 }
